@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <div>왕
+    <div>우왕좌왕
     </div>
   );
 }
